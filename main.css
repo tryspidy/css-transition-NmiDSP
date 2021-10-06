@@ -1,0 +1,4 @@
+/*CSS Transition Syntax*/
+selector {
+ transition: property duration timing-function delay|initial|inherit; 
+}
